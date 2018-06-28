@@ -1,0 +1,13 @@
+[user]
+  name = Tim Bynum
+  email = itsonlym3@gmail.com
+
+[github]
+  user = itsonlym3
+
+[core]
+  excludesfile = ~/.gitignore_global
+  editor = nano
+  filemode = false
+  trustctime = false
+  autocrlf = input
